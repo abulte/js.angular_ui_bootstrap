@@ -4,6 +4,6 @@ from js.bootstrap import bootstrap_css
 
 library = Library('angularuibootstrap', 'resources')
 
-angular_ui_bootstrap = Resource(library, 'ui-bootstrap-tpls-0.3.0.js',
-                            minified='ui-bootstrap-tpls-0.3.0.min.js', 
+angular_ui_bootstrap = Resource(library, 'ui-bootstrap-tpls-0.6.0.js',
+                            minified='ui-bootstrap-tpls-0.6.0.min.js',
                             depends=[angular, bootstrap_css])
