@@ -38,7 +38,6 @@ setup(
     install_requires=[
         'fanstatic',
         'js.angular',
-        'js.bootstrap',
         'setuptools',
         ],
     entry_points={

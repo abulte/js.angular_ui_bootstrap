@@ -6,6 +6,8 @@ CHANGES
 
 - Upgrade to angular-ui-bootstrap v0.11.0
 
+- Removed dependency on js.bootstrap.bootstrap_css
+
 0.6.0-2 - 2013-09-23
 ====================
 
